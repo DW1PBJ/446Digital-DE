@@ -1,0 +1,9 @@
+rotate.aprs2.net:14580;Universal connection for Global Loadbalance
+noam.aprs2.net:14580;Universal connection for servers in North America
+soam.aprs2.net:14580;Universal connection for servers in South America
+euro.aprs2.net:14580;Universal connection for servers in Europe and Africa
+asia.aprs2.net:14580;Universal connection for servers in Asia
+aunz.aprs2.net:14580;Universal connection for servers in Oceania
+aprs.hc.r1.ampr.org:14580;Universal Connection for Global Hamnet Loadbalance 
+cbaprs.dyndns.org:14580;APRS CB-ARPS
+sdr-mkk.de:14580; CB-DMR ARPS
