@@ -21,7 +21,7 @@
 #DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
 ##############################################################################################
 FreeDMR_Master  2620  opendmr.de  passw0rd  62031
-FreeDMR_Mast3r  0000  opendmr.de  passw0rd  62031
+FreeDMR_CBDMR  0000  ch-dmr.de  passw0rd  62031
 FreeDMR_Bayern	0000	dmr446.ddnss.de	passw0rd	62031
 FreeDMR_Ireland	0000	unmsomci.myvnc.com	passw0rd	62035
 FreeDMR_Ungarn	0000	freedmr.hu	passw0rd	62035
