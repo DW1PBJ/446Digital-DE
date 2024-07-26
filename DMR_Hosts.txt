@@ -6,21 +6,21 @@
 #
 # BrandMeister
 #
-# Name			      ID	  URL				                  Password	Port
+# Name			ID	URL				Password	Port
 #####################################################################################
-BM_CB-DMR		      0000	cb-dmr.de			              passw0rd	62031
+BM_CB-DMR		0000	cb-dmr.de			passw0rd	62031
 #####################################################################################
 #
 # FreeDMR
 #
-# Name			      ID	  URL				                  Password	Port
+# Name			ID	URL				Password	Port
 #####################################################################################
-FreeDMR_Bremen		2623	127.0.0.1		              	passw0rd	62031
-FreeDMR_Berlin		2625	fdmr.dynbox.net			        passw0rd	62031
-FreeDMR_Hessen		2626	opendmr.de		            	passw0rd	62031
-FreeDMR_NRW	    	26252	dmr446-nrw.de			          passw0rd	62031
-FreeDMR_Bayern		2628	dmr446.ddnss.de			        passw0rd	62031
-FreeDMR_Sachsen		26280	freedmr.multhielemedia.de	  passw0rd	62031
-FreeDMR_Ireland		2721	omcicomputerservices.com	  passw0rd	62031
-FreeDMR_Ungarn		2161	freedmr.hu			            passw0rd	62031
-FreeDMR_Fankreich	0000	f62dmr.fr			              passw0rd	55555
+FreeDMR_Bremen		2623	127.0.0.1			passw0rd	62031
+FreeDMR_Berlin		2625	fdmr.dynbox.net			passw0rd	62031
+FreeDMR_Hessen		2626	opendmr.de			passw0rd	62031
+FreeDMR_NRW		26252	dmr446-nrw.de			passw0rd	62031
+FreeDMR_Bayern		2628	dmr446.ddnss.de			passw0rd	62031
+FreeDMR_Sachsen		26280	freedmr.multhielemedia.de	passw0rd	62031
+FreeDMR_Ireland		2721	omcicomputerservices.com	passw0rd	62031
+FreeDMR_Ungarn		2161	freedmr.hu			passw0rd	62031
+FreeDMR_Fankreich	0000	f62dmr.fr			passw0rd	55555
