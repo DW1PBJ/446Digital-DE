@@ -1,10 +1,10 @@
 #####################################################################################
 #
-# Created on 26.07.2024 for the Open DMR Community...
+# Created on 31.07.2024 for the Open DMR Community...
 #
 #####################################################################################
 #
-# BrandMeister
+# BrandMeister - Lizenzfreies Netzwerk
 #
 # Name			ID	URL				Password	Port
 #####################################################################################
@@ -12,7 +12,7 @@ BM_SDR-MKK		0000	sdr-mkk.de			passw0rd	62031
 BM_OpenDM		0000	opendmr.de			passw0rd	62031
 #####################################################################################
 #
-# FreeDMR
+# FreeDMR - Lizenzfreies Netzwerk
 #
 # Name			ID	URL				Password	Port
 #####################################################################################
