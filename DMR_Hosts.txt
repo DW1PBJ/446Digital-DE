@@ -17,7 +17,7 @@ BM_SDR-MKK		0000	sdr-mkk.de			passw0rd	62031
 #####################################################################################
 FreeDMR_Bremen		2623	127.0.0.1			passw0rd	62031
 FreeDMR_Berlin		2625	fdmr.dynbox.net			passw0rd	62031
-FreeDMR_Hessen		2626	opendmr.de			passw0rd	62031
+FreeDMR_Hessen		0000	opendmr.de			passw0rd	62031
 FreeDMR_NRW		26252	dmr446-nrw.de			passw0rd	62031
 FreeDMR_Bayern		2628	dmr446.ddnss.de			passw0rd	62031
 FreeDMR_Sachsen		26280	freedmr.multhielemedia.de	passw0rd	62031
