@@ -1,3 +1,6 @@
+rotate.aprs2.net:14580;Universal connection for Global Loadbalance
+euro.aprs2.net:14580;Universal connection for servers in Europe 
+######### FreeDMR non Lizenz ################
 cbaprs.dyndns.org:14580;APRS CBARPS DE
 cbaprs.at:14580; CBARPS AT
 sdr-mkk.de:14580; SDR-MKK ARPS
