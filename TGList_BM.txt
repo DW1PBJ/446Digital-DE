@@ -1,13 +1,4 @@
-# TGList_BM.txt downloaded from http://www.pistar.uk/downloads/TGList_BM.txt
-# All BrandMeister TG and Reflectors for use with YSF2DMR
-# Sourced from https://api.brandmeister.network/v2/talkgroup
-# Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Thursday 22nd of August 2024
-#
-# Dest ID;Option;Name;Description
-#
-# Option: TG:0, REF:1, PC:2
-#
+# Aktualsiert 14-09-24 D06FTH
 1;0;LOCAL;TG1
 2;0;CLUSTER;TG2
 8;0;REGIONAL;TG8
