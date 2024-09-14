@@ -1,3 +1,4 @@
 cbaprs.dyndns.org:14580;APRS CBARPS DE
 cbaprs.at:14580; CBARPS AT
 sdr-mkk.de:14580; SDR-MKK ARPS
+aprs.to:14580; N2RWE APRS RealTime-Map
